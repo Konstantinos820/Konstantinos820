@@ -5,7 +5,7 @@
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Konstantinos820&color=2EA3F2&style=flat-square&label=Profile+Views)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/konstantinos-pappas)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/konstantinos-pappas-3188642b3/)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:konstantinospappas24@gmail.com)
 
 </div>
